@@ -1,7 +1,7 @@
 ## Hi there 👋 Santhosh here
 Engineering Graduate 🎓
 
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analysis
 - 💞️ I’m looking to collaborate on Python, Pandas , Sql, Powerbi
 - 📫 How to reach me:
 <br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](santhoshrajr6@gmail.com)
