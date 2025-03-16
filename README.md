@@ -16,7 +16,6 @@ Engineering Graduate 🎓
 ### Tools i use
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/> <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/santhoshrgit?theme=dark&font=Marcellus&ext=contest)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=santhoshrgit&bg_color=e9eab8&color=040104&line=030303&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!---
