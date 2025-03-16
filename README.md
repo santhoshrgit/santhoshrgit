@@ -5,7 +5,8 @@ Engineering Graduate 🎓
 - 👀 I’m interested in Data Analytics
 - 💞️ I’m looking to collaborate on Python, Pandas , Sql, Powerbi
 - 📫 How to reach me
-  [LinkedIn] (https://www.linkedin.com/in/santhoshr99) ![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_Logo_2023.png)
+[LinkedIn](https://www.linkedin.com/in/santhoshr99) ![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_Logo_2023.png)
+
 
 - 😄 Pronouns: He/ him
 - ⚡ Fun fact: Love to Travel 
