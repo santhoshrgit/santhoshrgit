@@ -1,6 +1,6 @@
 ## Hi there 👋 Santhosh here
 Engineering Graduate 🎓
-
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 👀 I’m interested in Data Analysis
 - 💞️ I’m looking to collaborate on Python, Pandas , Sql, Powerbi
 - 📫 How to reach me:
@@ -15,7 +15,6 @@ Engineering Graduate 🎓
 
 ### Tools i use
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/> <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/>
-![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=santhoshrgit-r&theme=dark&show_icons=true&&hide=issues,contribs)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=santhoshrgit&bg_color=e9eab8&color=040104&line=030303&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!---
