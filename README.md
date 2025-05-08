@@ -2,7 +2,7 @@
 Engineering Graduate 🎓
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 👀 I’m interested in AI and Data Analysis
-- 💞️ I’m looking to collaborate on Python, Pandas , Sql, Powerbi
+- 💞️ I’m looking to collaborate on Python, Pandas , Sql, Powerbi, AI/ML
 - 📫 How to reach me:
 <br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](santhoshrajr6@gmail.com)
  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/santhoshr99)
